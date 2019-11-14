@@ -1,6 +1,8 @@
 body {
   margin: 0;
   padding: 0;
+  background: #202020;
+  font-family: 'Roboto', sans-serif;
 }
 
 footer {
@@ -9,7 +11,8 @@ footer {
   bottom: 0;
   width: 100%;
   text-align: center;
-  background: lightblue;
+  color: #ffffff;
+  background: #202020;
 }
 
 .header-centered {
@@ -18,5 +21,5 @@ footer {
   top: 50%;
   transform: translateX(-50%) translateY(-50%);
   text-align: center;
-  background: lightblue;
+  color: #ffffff;
 }
