@@ -1,3 +1,4 @@
+/* General Website Styling */
 body {
   margin: 0;
   padding: 0;
@@ -15,6 +16,18 @@ footer {
   background: #202020;
 }
 
+/* Social Icons */
+.fab {
+  color: #ffffff;
+}
+
+.fab:hover {
+  opacity: 0.8;
+  color: #7703fc;
+  cursor: pointer;
+}
+
+/* Centered Name & TypeScript */
 .header-centered {
   position: absolute;
   left: 50%;
@@ -22,4 +35,11 @@ footer {
   transform: translateX(-50%) translateY(-50%);
   text-align: center;
   color: #ffffff;
+}
+
+/* Logo */
+.luxbar-brand:hover {
+  opacity: 0.8;
+  color: #7703fc;
+  cursor: pointer;
 }
