@@ -15,6 +15,16 @@ footer {
   background: #202020;
 }
 
+.fab{
+  color: #ffffff;
+}
+
+.fab:hover{
+  opacity: 0.8;
+  color: #7703fc;
+  cursor: pointer;
+}
+
 .header-centered {
   position: absolute;
   left: 50%;
