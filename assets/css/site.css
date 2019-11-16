@@ -17,6 +17,16 @@ footer {
 }
 
 /* Social Icons */
+.fas {
+  color: #ffffff;
+}
+
+.fas:hover {
+  opacity: 0.8;
+  color: #7703fc;
+  cursor: pointer;
+}
+
 .fab {
   color: #ffffff;
 }
