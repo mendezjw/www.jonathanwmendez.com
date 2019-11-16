@@ -1,3 +1,7 @@
+# turns off email notifications:
+  notifications:
+    email: false
+
 # run checks on Markdown writing through proselint script:
   # Markdown
   language: python
