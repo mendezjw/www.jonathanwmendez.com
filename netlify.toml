@@ -3,8 +3,3 @@
   to = "www.jonathanwmendez.com"
   status = 301
   force = false
-
-  from = "mendezjw.com"
-  to = "jonathanwmendez.com"
-  status = 301
-  force = false
