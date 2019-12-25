@@ -19,6 +19,7 @@ footer {
 /* Social Icons */
 .fas {
   color: #ffffff;
+  padding: 0px 5px 0px 5px;
 }
 
 .fas:hover {
@@ -29,6 +30,7 @@ footer {
 
 .fab {
   color: #ffffff;
+  padding: 0px 5px 0px 5px;
 }
 
 .fab:hover {
