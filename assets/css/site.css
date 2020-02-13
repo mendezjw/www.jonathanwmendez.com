@@ -3,6 +3,7 @@ body {
   margin: 0;
   padding: 0;
   background: #202020;
+  color: #ffffff;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -14,6 +15,7 @@ footer {
   text-align: center;
   color: #ffffff;
   background: #202020;
+  z-index: -1;
 }
 
 /* Social Icons */
@@ -49,9 +51,17 @@ footer {
   color: #ffffff;
 }
 
-/* Logo */
+/* Logo (Default navigation height = 58px) */
 .luxbar-brand:hover {
   opacity: 0.8;
   color: #7703fc;
   cursor: pointer;
+}
+
+/* Resume */
+.resume {
+  margin-top: 58px;
+  height: 1000px;
+  width: 100%;
+  z-index: 1;
 }
