@@ -7,3 +7,5 @@ var typed = new Typed('#typed', {
   startDelay: 1000,
   loop: true
 });
+
+// PDF Viewer
